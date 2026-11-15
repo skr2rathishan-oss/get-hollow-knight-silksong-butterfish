@@ -1,0 +1,33 @@
+{
+  "keyword": "Hollow Knight: Silksong",
+  "slug": "get-hollow-knight-silksong-butterfish",
+  "game": "hollow-knight-silksong",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 0,
+  "short_link": "https://share.google/3sYwCA6h12ZwOygJq",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None (single-player)",
+  "modules": [],
+  "has_skins": false,
+  "players": 6454,
+  "keepalive": {
+    "file": ".github/workflows/sync.yml",
+    "name": "Auto refresh",
+    "crons": [
+      "59 1 * * *",
+      "42 2 * * *",
+      "42 14 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s3",
+    "label": "Start setup",
+    "icon": "download"
+  },
+  "files": 35,
+  "bytes": 2867739
+}
